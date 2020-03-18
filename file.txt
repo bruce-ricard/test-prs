@@ -1,0 +1,2 @@
+kiln update-release         --name edwins_awesome_release         --version 1.2.3         --variables-file /var/folders/l4/jmhdbk813cn4qw8x56841zc80000gn/T/tmp.F3b0pKjk
+
